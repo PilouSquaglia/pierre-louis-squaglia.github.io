@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia;
     margin: 0;
     padding: 0;
 }
@@ -40,6 +40,9 @@ nav a:hover {
 
 .person {
     text-align: center;
+    background-image: url('pictures/fut_card.png'); /* Remplacez 'chemin/vers/votre-image-de-fond.jpg' par le chemin correct de votre image de fond */
+    background-size: cover; /* Ajustez la taille de l'image de fond selon vos préférences */
+    padding: 20px; /* Espace intérieur pour la section "Students" */
 }
 
 .person img {
@@ -49,6 +52,8 @@ nav a:hover {
 
 .person p {
     margin: 10px 0;
+    font-family: Georgia;
+    font-size: 10px;
 }
 
 .person img {
@@ -59,3 +64,10 @@ nav a:hover {
     transform: scale(1.1);
 }
 
+.person-info p {
+    text-align: center;
+    background-color: #dc1a1a;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
