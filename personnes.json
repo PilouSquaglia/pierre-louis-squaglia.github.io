@@ -1,0 +1,142 @@
+[
+    {
+        "nom": "Squaglia",
+        "prenom": "Pierre-Louis",
+        "date_naissance": "14-11-2001",
+        "lieu_naissance": "Bastia, Corse",
+        "point_fort": "JS, Angular",
+        "point_faible": "IA",
+        "fun": "central Back in Football",
+        "accomplisement": "No Code"
+    },
+    {
+        "nom": "Carlotti",
+        "prenom": "Toussaint",
+        "date_naissance": "17-12-2001",
+        "lieu_naissance": "Ajacci, Corse",
+        "point_fort": "Laravel, VueJs",
+        "point_faible": "Web developer",
+        "fun": "FootBall, Rhum",
+        "accomplisement": "Creation of an application to manage a company's quotes and customers"
+    },
+    {
+        "nom": "Khoge",
+        "prenom": "Jean",
+        "date_naissance": "28-07-1999",
+        "lieu_naissance": "Afrine, Syrie",
+        "point_fort": "Python, Django",
+        "point_faible": "Data Science",
+        "fun": "Hiking, Photography",
+        "accomplisement": "Developing a custom CRM system for a local NGO"
+    },
+    {
+        "nom": "Mourtahoi",
+        "prenom": "Idricealy",
+        "date_naissance": "29-04-2001",
+        "lieu_naissance": "Marseille, France",
+        "point_fort": "Kotlin ,Vue.js",
+        "point_faible": "IA",
+        "fun": "Football",
+        "accomplisement": "Hackaton 2022 ( dedicate to FPF )"
+    },
+    {
+        "nom": "Chevenslove EDOUARD",
+        "age": "25 yo",
+        "date_naissance": "06-02-1998",
+        "lieu_naissance": "Leogane, Haiti",
+        "point_fort": "JS, React",
+        "point_faible": "IA",
+        "accomplisement": "A Monitoring and Evaluation Platform for a consortium (ACF, HEIFER, JWT)",
+        "fun": "Football and Music"
+    },
+    {
+        "nom": "Amine MAOURID",
+        "age": "27 yo",
+        "date_naissance": "23-05-1996",
+        "lieu_naissance": "Casablanca, Morocco",
+        "point_fort": "Laravel, React",
+        "point_faible": "IA and data science",
+        "accomplisement": "An app that serves as a mini social network, allowing users to share and explore photos. It provides secure authentication, registration and password reset, users can like and comment photos, receive notifications for their photos interactions, friendship, and messagerie",
+        "fun": "FootBall, Chess"
+    },
+    {
+        "nom": "Dimitri Denis",
+        "age": "25",
+        "date_naissance": "21-05-1998",
+        "lieu_naissance": "Tours, France",
+        "point_fort": "Angular",
+        "point_faible": "Everything else",
+        "accomplisement": "Quoted in Corse-matin but not for coding",
+        "fun": "FootBall, culture and money"
+    },
+    {
+        "nom": "Abe",
+        "prenom": "Yuki",
+        "date_naissance": "1998-03-08",
+        "lieu_naissance": "Tokyo, Japon",
+        "point_fort": "Diligence",
+        "point_faible": "Trop perfectionniste",
+        "fun": "Dessine des mangas",
+        "accomplisement": "Artiste de manga renommé"
+    },
+    {
+        "nom": "O'Connor",
+        "prenom": "Siobhan",
+        "date_naissance": "1983-12-20",
+        "lieu_naissance": "Dublin, Irlande",
+        "point_fort": "Sens artistique",
+        "point_faible": "Manque d'organisation",
+        "fun": "Joue de la harpe celtique",
+        "accomplisement": "Harpe celtique virtuose"
+    },
+    {
+        "nom": "Sato",
+        "prenom": "Haruto",
+        "date_naissance": "1997-08-14",
+        "lieu_naissance": "Osaka, Japon",
+        "point_fort": "Persévérance",
+        "point_faible": "Timidité",
+        "fun": "Fait du cosplay",
+        "accomplisement": "Cosplayer accompli"
+    },
+    {
+        "nom": "Dubois",
+        "prenom": "Camille",
+        "date_naissance": "1991-06-05",
+        "lieu_naissance": "Paris, France",
+        "point_fort": "Créativité",
+        "point_faible": "Manque de confiance en soi",
+        "fun": "Joue du piano",
+        "accomplisement": "Pianiste talentueux"
+    },
+    {
+        "nom": "Lee",
+        "prenom": "Min-ho",
+        "date_naissance": "1989-09-22",
+        "lieu_naissance": "Séoul, Corée du Sud",
+        "point_fort": "Carisme",
+        "point_faible": "Trop perfectionniste",
+        "fun": "Acteur de cinéma",
+        "accomplisement": "Acteur célèbre"
+    },
+    {
+        "nom": "Mendoza",
+        "prenom": "Isabella",
+        "date_naissance": "1994-04-02",
+        "lieu_naissance": "Lima, Pérou",
+        "point_fort": "Esprit analytique",
+        "point_faible": "Impatience",
+        "fun": "Danse la salsa",
+        "accomplisement": "Danseuse de salsa talentueuse"
+    },
+    {
+        "nom": "Kawakami",
+        "prenom": "Akira",
+        "date_naissance": "1986-11-11",
+        "lieu_naissance": "Tokyo, Japon",
+        "point_fort": "Leadership",
+        "point_faible": "Difficulté à déléguer",
+        "fun": "Joue aux jeux de cartes",
+        "accomplisement": "Joueur de jeux de cartes professionel"
+    }
+]
